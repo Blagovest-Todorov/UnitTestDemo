@@ -1,0 +1,14 @@
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\bin\Debug\DemosTests.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\bin\Debug\DemosTests.pdb
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\obj\Debug\DemosTests.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\obj\Debug\DemosTests.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\obj\Debug\DemosTests.csproj.CopyComplete
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\obj\Debug\DemosTests.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\DemosTests\obj\Debug\DemosTests.pdb
